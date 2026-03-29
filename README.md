@@ -1,4 +1,4 @@
-# DVWA SQL Injection Report
+# web-app-penetration-testing
 
 ## Description
 SQL Injection vulnerability found in DVWA due to unsanitized user input.
