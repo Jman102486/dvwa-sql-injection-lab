@@ -17,9 +17,14 @@ SQL Injection vulnerability found in DVWA due to unsanitized user input.
 
 ## Proof
 
-### ![Normal](screenshots/05-sqli-normal.png)
-### ![Partial](screenshots/07-sqli-partial.png)
-### ![Success](screenshots/09-sqli-success.png)
+### Normal
+![Normal](05-sqli-normal.png)
+
+### Partial
+![Partial](07-sqli-partial.png)
+
+### Success
+![Success](09-sqli-success.png)
 
 ## Impact
 - Data exposure
